@@ -3,11 +3,11 @@ This repository contains code to find a path between the start node and the goal
 
 [0, RPM1] [RPM1, 0] [RPM1, RPM1] [0, RPM2] [RPM2, 0] [RPM2, RPM2] [RPM1, RPM2] [RPM2, RPM1]
 
-## Pre-requisites to run the code
+## Requirements: 
 1. Python 3
-2. ROS
+2. ROS 1
 
-## Required Libraries
+## Required Libraries:
 1. pygame
 2. math
 3. heapq
