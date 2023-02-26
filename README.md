@@ -3,18 +3,18 @@ This repository contains code to find a path between the start node and the goal
 
 [0, RPM1] [RPM1, 0] [RPM1, RPM1] [0, RPM2] [RPM2, 0] [RPM2, RPM2] [RPM1, RPM2] [RPM2, RPM1]
 
-## Pre-requisites to run the code:
+## Pre-requisites to run the code
 1. Python 3
 2. ROS
 
-## Required Libraries:
+## Required Libraries
 1. pygame
 2. math
 3. heapq
 4. time
 5. functools
 
-## Instructions to run the code: 
+## Instructions to run the code
 ### For point robot with non-holonomic constraints:
 ```
 python A-star_point_robot.py
